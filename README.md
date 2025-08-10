@@ -1,14 +1,17 @@
-<!-- Banner Principal -->
-<p align="center">
-  <img src="https://i.ibb.co/6JzvQnF/banner-pablo-lopez.png" alt="Pablo López Banner" width="100%">
-</p>
+<!-- Banner compacto y elegante -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Título animado -->
+<!-- Título animado con tipografía futurista -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&lines=Hola%2C+soy+Pablo+López.;Programador+%7C+Diseñador+%7C+Manager+%7C+Marketing+%7C+Editor+%7C+Inversor+%7C+Empresario;El+pasado+muere%2C+los+recuerdos+quedan%2C+el+presente+se+vive+y+la+vida+sigue." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=48&pause=1000&color=00FFF7&center=true&vCenter=true&width=800&lines=Hola,+soy+Pablo+L%C3%B3pez" alt="Typing Pablo López" />
 </h1>
 
-<!-- Badges -->
+<!-- Subtítulo futurista -->
+<p align="center" style="color:#00FFF7; font-family: 'Orbitron', monospace; font-size: 20px; font-weight: 600; letter-spacing: 4px; margin-top: -20px;">
+  Programador &nbsp;&bull;&nbsp; Diseñador &nbsp;&bull;&nbsp; Manager &nbsp;&bull;&nbsp; Marketing &nbsp;&bull;&nbsp; Editor &nbsp;&bull;&nbsp; Inversor &nbsp;&bull;&nbsp; Empresario
+</p>
+
+<!-- Badges de contacto -->
 <p align="center">
   <a href="https://pablocv.rf.gd"><img src="https://img.shields.io/badge/🌐%20Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:nevuwuaze@gmail.com"><img src="https://img.shields.io/badge/📧%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -16,58 +19,82 @@
 </p>
 
 ---
-
 ## 🖤 Sobre mí
-💼 **Pablo López** — Un creador digital que fusiona tecnología, diseño y negocios.  
-🚀 **Objetivo:** Elevar cada proyecto al más alto nivel, combinando estética y rendimiento.  
-🌍 **Ubicación:** México  
-⚡ **Dato curioso:** Siempre busco superar la versión de ayer.  
 
----
+<div align="center" style="font-family: 'Orbitron', monospace; color: #00FFF7; background: #0D1117; padding: 20px; border-radius: 12px; box-shadow: 0 0 15px #00FFF7;">
+  
+Soy **Pablo López**, un **creador digital multidisciplinario** navegando en la vanguardia del futuro tecnológico, diseño disruptivo y estrategia inteligente.  
+Aquí, donde el arte se fusiona con la ciencia, doy vida a proyectos que no solo ejecutan, sino que **redefinen experiencias digitales** con innovación y precisión milimétrica.
+
+🚀 **Roles en mi órbita digital:**  
+- Arquitecto Full Stack de soluciones inteligentes  
+- Diseñador UX/UI con visión futurista y minimalista  
+- Estratega en marketing digital y crecimiento exponencial  
+- Líder en proyectos tecnológicos de impacto disruptivo  
+
+🎯 **Misión:** Construir ecosistemas digitales que brillen con estética avanzada, rendimiento óptimo y generen conexiones humanas auténticas y significativas.
+
+</div>
 
 ## 🛠 Tecnologías & Herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,php,java,mysql,figma,photoshop,illustrator,git,github,wordpress,bootstrap,tailwind,vscode,linux&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,php,java,c,cpp,ruby,go,swift,kotlin,rust,dart,elixir,scala,mysql,postgres,redis,mongodb,docker,kubernetes,terraform,ansible,figma,photoshop,illustrator,git,github,linux,windows,macos,wordpress,bootstrap,tailwind,vscode,webpack,babel,graphql,firebase,jenkins" />
 </p>
+
+
 
 ---
 
 ## 🚀 Proyectos Destacados
 
-<p align="center">
-  <a href="https://pablocv.rf.gd">
-    <img src="https://img.shields.io/badge/🌐%20Portafolio%20Personal-000?style=for-the-badge" />
-  </a>
-</p>
-
-| 🌟 Proyecto | Descripción | Link |
-|-------------|-------------|------|
-| 🤖 **Bot para Choferes de Uber** | Herramienta para optimizar viajes y ganancias. | Privado |
-| 🛍 **E-commerce Minimalista** | Tienda online con experiencia premium. | En desarrollo |
+| 🚀 **Proyecto**               | 📋 **Descripción**                                                                 | 🔗 **Enlace**                                                                                       |
+|------------------------------|-----------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| 🌐 **Portafolio Personal**    | Plataforma digital que exhibe mis habilidades y trabajos destacados con diseño responsivo y tecnología moderna. | [![Visitar](https://img.shields.io/badge/Visitar%20Portafolio-00FFF7?style=for-the-badge&logo=vercel&logoColor=black)](https://pablocv.rf.gd) |
+| 🤖 **Bot para Choferes de Uber** | Herramienta avanzada que ayuda a choferes a optimizar viajes, maximizando ganancias y eficiencia.                   | ![Privado](https://img.shields.io/badge/Privado-FF4B4B?style=for-the-badge&logo=lock&logoColor=white)                                    |
+| 🛍 **E-commerce Minimalista** | Tienda online con enfoque en UX/UI premium, ofreciendo una experiencia de compra simple, rápida y elegante.          | ![En desarrollo](https://img.shields.io/badge/En%20Desarrollo-FFD93B?style=for-the-badge&logo=progress&logoColor=black)                 |
 
 ---
 
-## 📊 Mis estadísticas
+## 📈 Estadísticas y Logros
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pablocv&theme=highcontrast&hide_border=true&fire=FF0000&ring=FFB800&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFB800&sideLabels=FFB800&dates=CCCCCC" height="170"/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=pablocv&theme=dark&hide_border=true&stroke=0FFFC1&background=0B1220&fire=00FFD5&ring=0FFFC1&currStreakNum=00FFD5&sideNums=0FFFC1&currStreakLabel=00FFD5&sideLabels=0FFFC1&dates=38FFD6"
+    height="170"
+    alt="GitHub Streak Stats"
+  />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pablocv&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=Estadísticas%20de%20GitHub" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablocv&layout=compact&theme=radical&hide_border=true" height="170"/>
+
+<p align="center" style="margin-top: 10px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=pablocv&theme=radical&no-frame=true&no-bg=true&margin-w=5&margin-h=5&row=1" height="140" alt="GitHub Trophy Stats" />
+</p>
+
+<p align="center" style="margin-top: 15px;">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=pablocv&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&custom_title=📊%20Estadísticas%20de%20GitHub&title_color=00FFF7&icon_color=00FFD5&text_color=38FFD6&bg_color=0B1220"
+    height="170"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablocv&layout=compact&theme=dark&hide_border=true&langs_count=8&title_color=00FFF7&text_color=38FFD6&bg_color=0B1220"
+    height="170"
+    alt="Top Languages"
+  />
 </p>
 
 ---
 
-## ✨ En qué creo
+## 🎨 Estilo y Filosofía
 > *"El pasado muere, los recuerdos quedan, el presente se vive y la vida sigue."*  
-Mantengo una mentalidad de **crecimiento constante**, siempre buscando la perfección en cada detalle.
+Un enfoque minimalista, elegante y orientado a resultados, fusionando **tecnología + diseño + estrategia**.
 
 ---
 
-<!-- Footer -->
+<!-- Footer animado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=120&section=footer"/>
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
