@@ -79,8 +79,8 @@ Un enfoque minimalista, elegante y orientado a resultados, fusionando **tecnolog
 ---
 
 <!-- Footer animado -->
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+<p align="center">
+  <img src="https://github.com/NevuWuaze/NevuWuaze/blob/main/github-user-contribution.svg" alt="snake">
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=120&section=footer"/>
