@@ -78,7 +78,7 @@ Aquí, donde el arte se fusiona con la ciencia, doy vida a proyectos que no solo
     alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablocv&layout=compact&theme=dark&hide_border=true&langs_count=8&title_color=00FFF7&text_color=38FFD6&bg_color=0B1220"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevuwuaze&layout=compact&theme=dark&hide_border=true&langs_count=8&title_color=00FFF7&text_color=38FFD6&bg_color=0B1220"
     height="170"
     alt="Top Languages"
   />
