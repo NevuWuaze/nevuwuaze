@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://pablocv.rf.gd"><img src="https://img.shields.io/badge/🌐%20Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:nevuwuaze@gmail.com"><img src="https://img.shields.io/badge/📧%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/pablocv"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/nevuwuaze"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
@@ -60,7 +60,7 @@ Aquí, donde el arte se fusiona con la ciencia, doy vida a proyectos que no solo
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=pablocv&theme=dark&hide_border=true&stroke=0FFFC1&background=0B1220&fire=00FFD5&ring=0FFFC1&currStreakNum=00FFD5&sideNums=0FFFC1&currStreakLabel=00FFD5&sideLabels=0FFFC1&dates=38FFD6"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=nevuwuaze&theme=dark&hide_border=true&stroke=0FFFC1&background=0B1220&fire=00FFD5&ring=0FFFC1&currStreakNum=00FFD5&sideNums=0FFFC1&currStreakLabel=00FFD5&sideLabels=0FFFC1&dates=38FFD6"
     height="170"
     alt="GitHub Streak Stats"
   />
@@ -68,12 +68,12 @@ Aquí, donde el arte se fusiona con la ciencia, doy vida a proyectos que no solo
 
 
 <p align="center" style="margin-top: 10px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=pablocv&theme=radical&no-frame=true&no-bg=true&margin-w=5&margin-h=5&row=1" height="140" alt="GitHub Trophy Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nevuwuaze&theme=radical&no-frame=true&no-bg=true&margin-w=5&margin-h=5&row=1" height="140" alt="GitHub Trophy Stats" />
 </p>
 
 <p align="center" style="margin-top: 15px;">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=pablocv&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&custom_title=📊%20Estadísticas%20de%20GitHub&title_color=00FFF7&icon_color=00FFD5&text_color=38FFD6&bg_color=0B1220"
+    src="https://github-readme-stats.vercel.app/api?username=nevuwuaze&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&custom_title=📊%20Estadísticas%20de%20GitHub&title_color=00FFF7&icon_color=00FFD5&text_color=38FFD6&bg_color=0B1220"
     height="170"
     alt="GitHub Stats"
   />
