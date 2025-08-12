@@ -58,30 +58,16 @@ Aquí, donde el arte se fusiona con la ciencia, doy vida a proyectos que no solo
 
 ## 📈 Estadísticas y Logros
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/user=nevuwuaze&theme=dark&hide_border=true&stroke=0FFFC1&background=0B1220&fire=00FFD5&ring=0FFFC1&currStreakNum=00FFD5&sideNums=0FFFC1&currStreakLabel=00FFD5&sideLabels=0FFFC1&dates=38FFD6"
-    height="170"
-    alt="GitHub Streak Stats"
-  />
-</p>
-
 
 <p align="center" style="margin-top: 10px;">
   <img src="https://github-profile-trophy.vercel.app/?username=nevuwuaze&theme=radical&no-frame=true&no-bg=true&margin-w=5&margin-h=5&row=1" height="140" alt="GitHub Trophy Stats" />
 </p>
 
 <p align="center" style="margin-top: 15px;">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=nevuwuaze&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile"
-    height="170"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevuwuaze&layout=compact&theme=dark&hide_border=true&langs_count=8&title_color=00FFF7&text_color=38FFD6&bg_color=0B1220"
-    height="170"
-    alt="Top Languages"
-  />
+  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=nevuwuaze&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sumanth's Github Stats" width="60%">
+  
+<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=nevuwuaze&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sumanth's Top Languages">
+
 </p>
 
 ---
