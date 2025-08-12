@@ -64,9 +64,9 @@ Aquí, donde el arte se fusiona con la ciencia, doy vida a proyectos que no solo
 </p>
 
 <p align="center" style="margin-top: 15px;">
-  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=nevuwuaze&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sumanth's Github Stats" width="60%">
+  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=nevuwuaze&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="nevuwuaze Github Stats" width="60%">
   
-<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=nevuwuaze&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sumanth's Top Languages">
+<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=nevuwuaze&show_icons=true&hide_border=true&theme=radical&langs_count=1000" width="37%" alt="Sumanth's Top Languages">
 
 </p>
 
