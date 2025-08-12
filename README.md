@@ -73,7 +73,7 @@ Aquí, donde el arte se fusiona con la ciencia, doy vida a proyectos que no solo
 
 <p align="center" style="margin-top: 15px;">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=nevuwuaze&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&custom_title=📊%20Estadísticas%20de%20GitHub&title_color=00FFF7&icon_color=00FFD5&text_color=38FFD6&bg_color=0B1220"
+    src="https://github-readme-stats.vercel.app/api?username=nevuwuaze&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile"
     height="170"
     alt="GitHub Stats"
   />
@@ -93,6 +93,9 @@ Un enfoque minimalista, elegante y orientado a resultados, fusionando **tecnolog
 ---
 
 <!-- Footer animado -->
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=120&section=footer"/>
 </p>
