@@ -66,7 +66,7 @@ Aquí, donde el arte se fusiona con la ciencia, doy vida a proyectos que no solo
 <p align="center" style="margin-top: 15px;">
   <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=nevuwuaze&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="nevuwuaze Github Stats" width="60%">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nevuwuaze&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia&text_color=6B7280" width="30%" alt="NevuWuaze Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nevuwuaze&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia&text_color=6B7280" width="34%" alt="NevuWuaze Top Languages">
 
 </p>
 
