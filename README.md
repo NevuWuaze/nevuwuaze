@@ -60,7 +60,7 @@ Aquí, donde el arte se fusiona con la ciencia, doy vida a proyectos que no solo
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=nevuwuaze&theme=dark&hide_border=true&stroke=0FFFC1&background=0B1220&fire=00FFD5&ring=0FFFC1&currStreakNum=00FFD5&sideNums=0FFFC1&currStreakLabel=00FFD5&sideLabels=0FFFC1&dates=38FFD6"
+    src="https://github-readme-streak-stats.herokuapp.com/user=nevuwuaze&theme=dark&hide_border=true&stroke=0FFFC1&background=0B1220&fire=00FFD5&ring=0FFFC1&currStreakNum=00FFD5&sideNums=0FFFC1&currStreakLabel=00FFD5&sideLabels=0FFFC1&dates=38FFD6"
     height="170"
     alt="GitHub Streak Stats"
   />
