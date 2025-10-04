@@ -39,7 +39,7 @@ Aquí, donde el arte se fusiona con la ciencia, doy vida a proyectos que no solo
 ## 🛠 Tecnologías & Herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,php,java,c,ruby,go,swift,kotlin,rust,scala,mysql,git,github,linux,windows,vscode,webpack,babel,graphql,firebase,jenkins,lua,typescript" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,php,java,c,ruby,go,swift,kotlin,rust,scala,mysql,git,github,linux,windows,vscode,webpack,babel,graphql,firebase,jenkins,lua,unity" />
 </p>
 
 
