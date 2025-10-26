@@ -71,7 +71,15 @@ Aquí, donde el arte se fusiona con la ciencia, doy vida a proyectos que no solo
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nevuwuaze&langs_count=1000000000000&show_icons=true&locale=en&layout=compact&theme=algolia&text_color=efefef&bg_color=24292e" width="30%" alt="NevuWuaze Top Languages">
 
 </p>
+<details>
+<summary>
 
+###### More Information </summary>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nevuwuaze&theme=transparent) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nevuwuaze&theme=transparent&utcOffset=8) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nevuwuaze&theme=transparent) 
+
+</details>
 ---
 
 ## 🎨 Estilo y Filosofía
