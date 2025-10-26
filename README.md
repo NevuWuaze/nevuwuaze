@@ -58,9 +58,17 @@ Aquí, donde el arte se fusiona con la ciencia, doy vida a proyectos que no solo
 
 ## 📈 Estadísticas y Logros
 
+<br>
 <p align="center">
-  <img src="https://trophygh.kolioaris.xyz?username=nevuwuaze&theme=radical&column=-1&row=1&margin-w=6&margin-h=6&no-bg=true&no-frame=true&order=2" height="150" alt="GitHub Trophy Graph" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-trophies.vercel.app/?username=nevuwuaze&column=6&margin-w=20&margin-h=10&theme=radical&no-bg=true&no-frame=false" 
+         alt="GitHub Trophies" 
+         height="150"
+         style="border-radius:12px; box-shadow: 0 0 20px #00FFF7;"/>
+  </a>
 </p>
+<br>
+
 
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nevuwuaze&theme=github-compact)
