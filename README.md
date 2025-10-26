@@ -84,17 +84,12 @@ Aquí, donde el arte se fusiona con la ciencia, doy vida a proyectos que no solo
 <summary>
 
 ###### More Information </summary>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nevuwuaze&theme=dark&border_radius=12&bg_color=0D1117" height="150" alt="Profile Details" />
-</p>
+<div align="center" style="display:flex; gap:20px; justify-content:center; padding:15px; background:#0D1117; border-radius:15px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nevuwuaze&theme=dark&border_radius=15&bg_color=0D1117" height="180" style="box-shadow: 0 0 25px #00FFF7;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nevuwuaze&theme=dark&border_radius=15&bg_color=0D1117&utcOffset=8" height="180" style="box-shadow: 0 0 25px #00FFF7;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nevuwuaze&theme=dark&border_radius=15&bg_color=0D1117" height="180" style="box-shadow: 0 0 25px #00FFF7;" />
+</div>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nevuwuaze&theme=dark&border_radius=12&bg_color=0D1117&utcOffset=8" height="150" alt="Productive Time" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nevuwuaze&theme=dark&border_radius=12&bg_color=0D1117" height="150" alt="Stats" />
-</p>
 
 
 </details>
