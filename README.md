@@ -59,7 +59,7 @@ Aquí, donde el arte se fusiona con la ciencia, doy vida a proyectos que no solo
 ## 📈 Estadísticas y Logros
 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArshiaIlaty&theme=github-compact)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nevuwuaze&theme=github-compact)
 
 <p align="center" style="margin-top: 15px;">
   <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=nevuwuaze&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="nevuwuaze Github Stats" width="60%">
