@@ -58,9 +58,7 @@ Aquí, donde el arte se fusiona con la ciencia, doy vida a proyectos que no solo
 
 ## 📈 Estadísticas y Logros
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NevuWuaze&theme=radical&no-frame=true&no-bg=true&margin-w=5&margin-h=5&row=1" height="140" alt="GitHub Trophy Stats" />
-</p>
+<img src="https://github-readme-streak-stats-swart-eight.vercel.app?user=nevuwuaze&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="147" alt="streak graph" />
 
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nevuwuaze&theme=github-compact)
