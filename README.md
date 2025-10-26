@@ -75,9 +75,11 @@ Aquí, donde el arte se fusiona con la ciencia, doy vida a proyectos que no solo
 <summary>
 
 ###### More Information </summary>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nevuwuaze&theme=transparent) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nevuwuaze&theme=transparent&utcOffset=8) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nevuwuaze&theme=transparent) 
+<div align="center" style="display:flex; gap:15px; padding:10px; box-shadow: 0 0 20px #00FFF7; border-radius:12px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nevuwuaze&theme=dark&border_radius=10&bg_color=0D1117" height="120" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nevuwuaze&theme=dark&border_radius=10&bg_color=0D1117&utcOffset=8" height="120" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nevuwuaze&theme=dark&border_radius=10&bg_color=0D1117" height="120" />
+</div>
 
 </details>
 ---
