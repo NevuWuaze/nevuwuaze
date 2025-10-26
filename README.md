@@ -58,7 +58,7 @@ Aquí, donde el arte se fusiona con la ciencia, doy vida a proyectos que no solo
 
 ## 📈 Estadísticas y Logros
 
-<img src="https://github-readme-streak-stats-swart-eight.vercel.app?user=nevuwuaze&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="147" alt="streak graph" />
+<img src="https://trophygh.kolioaris.xyz?username=arnabnandy7&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nevuwuaze&theme=github-compact)
