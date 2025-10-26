@@ -60,8 +60,9 @@ Aquí, donde el arte se fusiona con la ciencia, doy vida a proyectos que no solo
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nevuwuaze&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nevuwuaze&range=last_7_days&theme=radical" alt="WakaTime Stats" />
 </p>
+
 
 <p align="center" style="margin-top: 15px;">
   <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=nevuwuaze&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="nevuwuaze Github Stats" width="60%">
