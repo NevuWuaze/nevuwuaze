@@ -58,7 +58,9 @@ Aquí, donde el arte se fusiona con la ciencia, doy vida a proyectos que no solo
 
 ## 📈 Estadísticas y Logros
 
-<img src="https://trophygh.kolioaris.xyz?username=arnabnandy7&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+<p align="center">
+  <img src="https://trophygh.kolioaris.xyz?username=nevuwuaze&theme=radical&column=-1&row=1&margin-w=6&margin-h=6&no-bg=true&no-frame=true&order=2" height="150" alt="GitHub Trophy Graph" />
+</p>
 
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nevuwuaze&theme=github-compact)
