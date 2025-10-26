@@ -61,13 +61,14 @@ Aquí, donde el arte se fusiona con la ciencia, doy vida a proyectos que no solo
 <br>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-trophies.vercel.app/?username=nevuwuaze&column=6&margin-w=20&margin-h=10&theme=radical&no-bg=true&no-frame=false" 
+    <img src="https://github-trophies.vercel.app/?username=nevuwuaze&column=6&margin-w=25&margin-h=15&theme=radical&no-bg=true&no-frame=false" 
          alt="GitHub Trophies" 
-         height="150"
-         style="border-radius:12px; box-shadow: 0 0 20px #00FFF7;"/>
+         height="250"
+         style="border-radius:15px; box-shadow: 0 0 25px #00FFF7;"/>
   </a>
 </p>
 <br>
+
 
 
 
