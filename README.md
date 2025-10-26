@@ -59,7 +59,7 @@ Aquí, donde el arte se fusiona con la ciencia, doy vida a proyectos que no solo
 ## 📈 Estadísticas y Logros
 
 
-<p align="center" style="margin-top: 10px;">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nevuwuaze&theme=radical&no-frame=true&no-bg=true&margin-w=5&margin-h=5&row=1" height="140" alt="GitHub Trophy Stats" />
 </p>
 
